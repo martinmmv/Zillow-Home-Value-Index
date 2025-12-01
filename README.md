@@ -5,3 +5,4 @@ Used the following Python libraries to clean, transform, explore, and visualize 
 2. numpy
 3. matplotlib
 4. seaborn
+For more information, see: https://www.zillow.com/research/data/
